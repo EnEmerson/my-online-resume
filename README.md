@@ -53,7 +53,29 @@ I am currently a student at Texas State University, working on my Bachelor's deg
 
 ## Skills:
 
+* A+ Computer Technician Certified
 
+* Adobe Photoshop CS6 Certified
+
+* 3DS Max 2015 Certified
+
+* Object Oriented Programming with Java and C#
+
+* Microsoft SQL 2016
+
+* Understanding of query\-based Database structure
+
+* Microsoft Office Applications: Word, Excel, Powerpoint
+
+* HTML/CSS Website design and development
+
+* Familiar with languages: Python, Actionscript, R\-Script, Markdown
+
+* Familiar with software: GIMP, Unity, Premiere, After Effects
+
+* Proficient using Git
+
+---
 
 
 
