@@ -18,6 +18,8 @@ My resume, recording and documenting my work throughout the years.
 
 * [References](https://github.com/EnEmerson/my-online-resume#references)
 
+* [Contact Info](https://github.com/EnEmerson/my-online-resume#contact-info)
+
 ---
 
 ## Summary:
@@ -77,10 +79,45 @@ I am currently a student at Texas State University, working on my Bachelor's deg
 
 ---
 
+## References:
 
+#### College Professors:
 
+* Dr. Marcos Sivitanides
 
+* Dr. Timothy Chase
 
+* Dr. Lucian Visinescu
+
+* Dr. Jaymeen Shah
+
+#### High School Mentors:
+
+* Jeff Thomas
+
+* Ricardo Olvera
+
+* Jim Hogg
+
+#### E\-Mow Lawncare:
+
+* David Emerson
+
+#### Movies 8:
+
+* Elizabeth Montiel
+
+#### Fun 2 Learn Code:
+
+* Manny Castro
+
+---
+
+## Contact Info:
+
+* Cell: (512)709\-6342
+
+* Email: 007emersone@gmail.com
 
 
 
