@@ -85,33 +85,57 @@ I am currently a student at Texas State University, working on my Bachelor's deg
 
 * Dr. Marcos Sivitanides
 
-Email:
+Email: marcos_sivitanides@txstate.edu
 
 * Dr. Timothy Chase
 
+Email: tmc113@txstate.edu
+
 * Dr. Lucian Visinescu
 
+Email: llv19@txstate.edu
+
 * Dr. Jaymeen Shah
+
+Email: Jaymeen.Shah@txstate.edu
+
+* Bradley Hamman
+
+Email: bkh39@txstate.edu
 
 #### High School Mentors:
 
 * Jeff Thomas
 
+Email: jeff_thomas@roundrockisd.org
+
 * Ricardo Olvera
 
+Email: ricardo_olvera@roundrockisd.org
+
 * [Jim Hogg](https://www.daddysbees.com/)
+
+Email: jim_hogg@roundrockisd.org
 
 #### E\-Mow Lawncare:
 
 * David Emerson
 
+Email: emobacon@yahoo.com
+
+Phone: (512)769\-7035
+
 #### [Movies 8:](https://www.cinemark.com/central-texas/cinemark-movies-8)
 
 * Elizabeth Montiel
 
+Phone: (512)560\-2764
+
 #### [Fun 2 Learn Code:](https://fun2learncode.com/)
 
 * Manny Castro
+
+Email: info@fun2learncode.com
 
 ---
 
