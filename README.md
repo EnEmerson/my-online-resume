@@ -103,6 +103,8 @@ Email: Jaymeen.Shah@txstate.edu
 
 Email: bkh39@txstate.edu
 
+---
+
 ### High School Mentors:
 
 #### Jeff Thomas
@@ -117,6 +119,8 @@ Email: ricardo_olvera@roundrockisd.org
 
 Email: jim_hogg@roundrockisd.org
 
+---
+
 ### E\-Mow Lawncare:
 
 #### David Emerson
@@ -125,11 +129,15 @@ Email: emobacon@yahoo.com
 
 Phone: (512)769\-7035
 
+---
+
 ### [Movies 8:](https://www.cinemark.com/central-texas/cinemark-movies-8)
 
 #### Elizabeth Montiel
 
 Phone: (512)560\-2764
+
+---
 
 ### [Fun 2 Learn Code:](https://fun2learncode.com/)
 
