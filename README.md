@@ -85,6 +85,8 @@ I am currently a student at Texas State University, working on my Bachelor's deg
 
 * Dr. Marcos Sivitanides
 
+Email:
+
 * Dr. Timothy Chase
 
 * Dr. Lucian Visinescu
