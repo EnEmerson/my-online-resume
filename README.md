@@ -81,61 +81,61 @@ I am currently a student at Texas State University, working on my Bachelor's deg
 
 ## References:
 
-#### College Professors:
+### College Professors:
 
-* Dr. Marcos Sivitanides
+Dr. Marcos Sivitanides
 
-Email: marcos_sivitanides@txstate.edu
+* Email: marcos_sivitanides@txstate.edu
 
-* Dr. Timothy Chase
+Dr. Timothy Chase
 
-Email: tmc113@txstate.edu
+* Email: tmc113@txstate.edu
 
-* Dr. Lucian Visinescu
+Dr. Lucian Visinescu
 
-Email: llv19@txstate.edu
+* Email: llv19@txstate.edu
 
-* Dr. Jaymeen Shah
+Dr. Jaymeen Shah
 
-Email: Jaymeen.Shah@txstate.edu
+* Email: Jaymeen.Shah@txstate.edu
 
-* Bradley Hamman
+Bradley Hamman
 
-Email: bkh39@txstate.edu
+* Email: bkh39@txstate.edu
 
-#### High School Mentors:
+### High School Mentors:
 
-* Jeff Thomas
+Jeff Thomas
 
-Email: jeff_thomas@roundrockisd.org
+* Email: jeff_thomas@roundrockisd.org
 
-* Ricardo Olvera
+Ricardo Olvera
 
-Email: ricardo_olvera@roundrockisd.org
+* Email: ricardo_olvera@roundrockisd.org
 
-* [Jim Hogg](https://www.daddysbees.com/)
+[Jim Hogg](https://www.daddysbees.com/)
 
-Email: jim_hogg@roundrockisd.org
+* Email: jim_hogg@roundrockisd.org
 
-#### E\-Mow Lawncare:
+### E\-Mow Lawncare:
 
-* David Emerson
+David Emerson
 
-Email: emobacon@yahoo.com
+* Email: emobacon@yahoo.com
 
-Phone: (512)769\-7035
+* Phone: (512)769\-7035
 
-#### [Movies 8:](https://www.cinemark.com/central-texas/cinemark-movies-8)
+### [Movies 8:](https://www.cinemark.com/central-texas/cinemark-movies-8)
 
-* Elizabeth Montiel
+Elizabeth Montiel
 
-Phone: (512)560\-2764
+* Phone: (512)560\-2764
 
-#### [Fun 2 Learn Code:](https://fun2learncode.com/)
+### [Fun 2 Learn Code:](https://fun2learncode.com/)
 
-* Manny Castro
+Manny Castro
 
-Email: info@fun2learncode.com
+* Email: info@fun2learncode.com
 
 ---
 
