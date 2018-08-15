@@ -26,7 +26,7 @@ My resume, recording and documenting my work throughout the years.
 
 I am currently a student at Texas State University, working on my Bachelor's degree in Computer Information Systems. I started my degree at Texas State in the Fall of 2016 and will graduate in 2020.
 
-#### My current GPA is: 3.5
+### My current GPA is: 3.5
 
 ---
 
@@ -153,7 +153,11 @@ Email: info@fun2learncode.com
 
 * Email: 007emersone@gmail.com
 
-*Do not contact me with unsolicited services or offers*
+![profile-pic-2018](https://github.com/EnEmerson/my-online-resume/blob/master/resources/profile-pic-2018.jpg)
+
+---
+
+*Do not contact me with any unsolicited services or offers*
 
 
 
