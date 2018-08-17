@@ -151,7 +151,7 @@ Email: info@fun2learncode.com
 
 * Cell: (512)709\-6342
 
-* Email: 007emersone@gmail.com
+* Email: en.emerson.work@gmail.com
 
 ![profile-pic-2018](https://github.com/EnEmerson/my-online-resume/blob/master/resources/profile-pic-2018.jpg)
 
