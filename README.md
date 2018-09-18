@@ -68,7 +68,7 @@ I am currently a student at Texas State University, working on my Bachelor's deg
 
 * Microsoft SQL 2016
 
-* Understanding of query database structure
+* Understanding of query structured databses.
 
 * Microsoft Office Applications: Word, Excel, Powerpoint
 
@@ -76,7 +76,7 @@ I am currently a student at Texas State University, working on my Bachelor's deg
 
 * Familiar with languages: Python, Actionscript, R\-Script, Markdown
 
-* Familiar with software: GIMP, Unity, Adobe Premiere, Adobe After Effects
+* Familiar with software: GIMP, Unity, 3DS Max, Adobe Photoshop CS6, Adobe Premiere, Adobe After Effects
 
 * Proficient using Git
 
@@ -86,15 +86,24 @@ I am currently a student at Texas State University, working on my Bachelor's deg
 
 ### College Professors:
 
-#### Dr. Marcos Sivitanides
+#### Bradley Hamman:
+
+Email: bkh39@txstate.edu
+
+#### Jennifer Krou
+
+Email: jlk132@txstate.edu
+
+#### Marcos Sivitanides
 
 Email: marcos_sivitanides@txstate.edu
 
-#### Dr. Lucian Visinescu
+#### Lucian Visinescu
 
 Email: llv19@txstate.edu
 
-#### Dr. Jaymeen Shah
+#### 
+Jaymeen Shah
 
 Email: Jaymeen.Shah@txstate.edu
 
