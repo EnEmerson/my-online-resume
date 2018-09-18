@@ -102,8 +102,7 @@ Email: marcos_sivitanides@txstate.edu
 
 Email: llv19@txstate.edu
 
-#### 
-Jaymeen Shah
+#### Jaymeen Shah
 
 Email: Jaymeen.Shah@txstate.edu
 
