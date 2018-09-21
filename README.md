@@ -24,7 +24,7 @@ My resume, recording and documenting my work throughout the years.
 
 ## Summary:
 
-I am currently a student at Texas State University, working on my Bachelor's degree in Computer Information Systems. I started my degree at Texas State in the Fall of 2016 and will graduate in 2020.
+I am currently a student at Texas State University, working on my Bachelor's degree in Computer Information Systems. I started my degree at Texas State in the Fall of 2016 and will graduate in the Fall of 2019.
 
 ### My current GPA is: 3.5
 
@@ -51,7 +51,7 @@ I am currently a student at Texas State University, working on my Bachelor's deg
 1. **Stony Point High School (2012 \- 2016)**
 	* I graduated Summa Cum Laude from Stony Point in Round Rock, TX with a GPA of 4.0. I received various awards for academic achievement including: Top of Class in Earth and Space Science, ‘A’ Honor Roll, and Perfect Attendance. I ran Cross-Country for 2 years and was on the Varsity Bowling team all 4 years, with an average of 165 and a high game of 274. **Go Tigers!**
 
-2. **Texas State University (2016 \- 2020)**
+2. **Texas State University (2016 \- 2019)**
 	* I am currently completing my C.I.S. degree at Texas State University in the McCoy Business College. I am member of 3 clubs on campus: Association of Information Technology Professionals (AITP), Men's Ultimate Disc, and the Young Conservatives of Texas (YCT). **Eat 'em up Cats!**
 
 ---
