@@ -156,6 +156,10 @@ Email: info@fun2learncode.com
 
 * Email: en.emerson.work@gmail.com
 
+* [Github](https://github.com/EnEmerson) 
+
+* [LinkedIn](https://www.linkedin.com/in/en-e-4088a184/)
+
 ![profile-pic-2018](https://github.com/EnEmerson/my-online-resume/blob/master/resources/profile-pic-2018.jpg)
 
 ---
