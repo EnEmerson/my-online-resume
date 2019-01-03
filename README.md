@@ -56,7 +56,7 @@ I am currently a student at Texas State University, working on my Bachelors of B
 
 ---
 
-## Skills:
+## Skills, Qualifications, and Certifications:
 
 * A+ Computer Technician Certified
 
@@ -66,19 +66,19 @@ I am currently a student at Texas State University, working on my Bachelors of B
 
 * Object Oriented Programming with Java and C#
 
-* Microsoft SQL 2016
-
-* Understanding of query structured databses.
+* Understanding of relational database model using structured query languages (Microsoft SQL 2016).
 
 * Microsoft Office Applications: Word, Excel, Powerpoint
 
 * HTML/CSS Website design and development
 
+* Proficiency in Systems Analysis and Design with the Agile Development process
+
 * Familiar with languages: Python, Actionscript, R\-Script, Markdown
 
 * Familiar with software: GIMP, Unity, 3DS Max, Adobe Photoshop CS6, Adobe Premiere, Adobe After Effects
 
-* Proficient using Git
+* Proficiency with Git version management
 
 ---
 
