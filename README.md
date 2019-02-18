@@ -86,9 +86,14 @@ I am currently a student at Texas State University, working on my Bachelors of B
 
 ### College Professors:
 
-||Bradley Hamman|Jennifer Krou|Marcos Sivitanides|Lucian Visinescu|Jaymeen Shah|
-|---|---|---|---|---|---|
-|Email:|bkh39@txstate.edu|jlk132@txstate.edu|marcos_sivitanides@txstate.edu|llv19@txstate.edu|Jaymeen.Shah@txstate.edu|
+||Jaymeen Shah|Lucian Visinescu|Jennifer Krou|
+|---|---|---|---|
+|Email:|Jaymeen.Shah@txstate.edu|llv19@txstate.edu|jlk132@txstate.edu|
+
+||Bradley Hamman|Marcos Sivitanides|
+|---|---|---|
+|Email:|bkh39@txstate.edu|marcos_sivitanides@txstate.edu|
+
 
 ---
 
