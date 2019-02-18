@@ -58,19 +58,13 @@ I am currently a student at Texas State University, working on my Bachelors of B
 
 ## Skills, Qualifications, and Certifications:
 
-* A+ Computer Technician Certified
-
-* Adobe Photoshop CS6 Certified
-
-* 3DS Max 2015 Certified
-
-* Object Oriented Programming with Java and C#
+* Object Oriented Programming with Java, C#, and Javascript.
 
 * Understanding of relational database model using structured query languages (Microsoft SQL 2016).
 
 * Microsoft Office Applications: Word, Excel, Powerpoint
 
-* HTML/CSS Website design and development
+* HTML/XML/CSS Website design and development
 
 * Proficiency in Systems Analysis and Design with the Agile Development process
 
@@ -80,73 +74,54 @@ I am currently a student at Texas State University, working on my Bachelors of B
 
 * Proficiency with Git version management
 
+* A+ Computer Technician Certified
+
+* Adobe Photoshop CS6 Certified
+
+* 3DS Max 2015 Certified
+
 ---
 
 ## References:
 
 ### College Professors:
 
-#### Bradley Hamman:
-
-Email: bkh39@txstate.edu
-
-#### Jennifer Krou
-
-Email: jlk132@txstate.edu
-
-#### Marcos Sivitanides
-
-Email: marcos_sivitanides@txstate.edu
-
-#### Lucian Visinescu
-
-Email: llv19@txstate.edu
-
-#### Jaymeen Shah
-
-Email: Jaymeen.Shah@txstate.edu
+||Bradley Hamman|Jennifer Krou|Marcos Sivitanides|Lucian Visinescu|Jaymeen Shah|
+|---|---|---|---|---|---|
+|Email:|bkh39@txstate.edu|jlk132@txstate.edu|marcos_sivitanides@txstate.edu|llv19@txstate.edu|Jaymeen.Shah@txstate.edu|
 
 ---
 
 ### High School Mentors:
 
-#### Jeff Thomas
-
-Email: jeff_thomas@roundrockisd.org
-
-#### Ricardo Olvera
-
-Email: ricardo_olvera@roundrockisd.org
-
-#### [Jim Hogg](https://www.daddysbees.com/)
-
-Email: jim_hogg@roundrockisd.org
+||Jeff Thomas|Ricardo Olvera|Jim Hogg|
+|---|---|---|---|
+|Email:|jeff_thomas@roundrockisd.org|ricardo_olvera@roundrockisd.org|jim_hogg@roundrockisd.org|
 
 ---
 
 ### E\-Mow Lawncare:
 
-#### David Emerson
-
-Email: emobacon@yahoo.com
-
-Phone: (512)769\-7035
+||David Emerson|
+|---|---|
+|Email:|emobacon@yahoo.com|
+|Phone:|(512) 769\-7035|
 
 ---
 
 ### [Movies 8:](https://www.cinemark.com/central-texas/cinemark-movies-8)
 
-#### Elizabeth Montiel
-
-Phone: (512)560\-2764
+||Elizabeth Montiel|
+|---|---|
+|Phone:|(512) 560\-2764|
 
 ---
 
 ### [Fun 2 Learn Code:](https://fun2learncode.com/)
 
-#### Manny Castro
-
-Email: info@fun2learncode.com
+||Manny Castro|
+|---|---|
+|Email:|info@fun2learncode.com|
 
 ---
 
