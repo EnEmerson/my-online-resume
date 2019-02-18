@@ -2,7 +2,7 @@
 
 ### Description:
 
-My resume, recording and documenting my work throughout the years.
+My resume, recording and documenting my work experience throughout the years.
 
 ---
 
@@ -24,9 +24,9 @@ My resume, recording and documenting my work throughout the years.
 
 ## Summary:
 
-I am currently a student at Texas State University, working on my Bachelors of Business Administration degree in Computer Information Systems. I started my degree at Texas State in the Fall of 2016 and will graduate in the Fall of 2019.
+I am currently a student at Texas State University, working on my Bachelors of Business Administration degree in Computer Information Systems. I started my degree at Texas State in the Fall of 2016 and plan to graduate in the Fall of 2019.
 
-### My current GPA is: 3.7
+### My current GPA is: 3.8
 
 ---
 
@@ -49,7 +49,7 @@ I am currently a student at Texas State University, working on my Bachelors of B
 ## Education:
 
 1. **Stony Point High School (2012 \- 2016)**
-	* I graduated Summa Cum Laude from Stony Point in Round Rock, TX with a GPA of 4.0. I received various awards for academic achievement including: Top of Class in Earth and Space Science, ‘A’ Honor Roll, and Perfect Attendance. I ran Cross-Country for 2 years and was on the Varsity Bowling team all 4 years, with an average of 165 and a high game of 274. **Go Tigers!**
+	* I graduated Summa Cum Laude from Stony Point in Round Rock, TX with a GPA of 4.0. I received various awards for academic achievement including: Top of Class in Earth and Space Science, ‘A’ Honor Roll, and Perfect Attendance. I ran Cross-Country for 2 years and was on the Varsity Bowling team for all 4 years, with an average of 165 and a high game of 274. **Go Tigers!**
 
 2. **Texas State University (2016 \- 2019)**
 	* I am currently completing my Bachelors of Business Administration (B.B.A) degree in Computer Information Systems (C.I.S) at Texas State University in the McCoy Business College. I am the Vice President of Information Technology for the Association of Information Technology Professionals (AITP), I play on the Men's Ultimate Disc club team, and I am a member of the Young Conservatives of Texas (YCT). **Eat 'em up Cats!**
