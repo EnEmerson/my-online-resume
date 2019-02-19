@@ -74,17 +74,14 @@ I am currently a student at Texas State University, working on my Bachelor’s of 
 
 ## Work Experience:
 
-1. **E-Mow Lawncare Services (2008 \- 2014)**
-	* I mowed and trimmed lawns at my father's lawncare business. It is a family owned business and was originally created to give myself and my brothers a way to earn our own money. Over time, it's evolved into a thriving small business with over 200 customers.
-
-2. **Cinemark Movies 8 (Feb. 2014 \- Aug. 2018)**
+1. **Cinemark Movies 8 (Feb. 2014 \- Aug. 2018)**
 	* I worked as an Usher and Cashier at Movies 8, ensuring customers' movie-going experience at the theater was always of high quality. Duties included: Selling and taking tickets, guiding customers to their auditorium, cleaning messes, sweeping theaters, and selling concessions/snacks.
 
-3. **Fun 2 Learn Code (Jun. 2018 \- Aug. 2018)**
-	* I worked as an instructor and camp leader at Fun 2 Learn Code. Kids between the ages of 7 and 14 would come for week-long camps to learn about computer programming, game design, and Science Technology Engineering Art Mathematics (STEAM). I taught classes covering languages such as Java, C#, and Python.
+2. **Fun 2 Learn Code (Jun. 2018 \- Aug. 2018)**
+	* I worked as an instructor and camp leader at Fun 2 Learn Code. Kids between the ages of 7 and 14 would come for 1-week long camps to learn about computer programming, game design, and Science\-Technology\-Engineering\-Art\-Mathematics (STEAM). I led camps covering Minecraft modding with Java, Unity VR with C#, and beginner Python classes.
 
-4. **Texas State CIS & QMST Dept. (Sep. 2018 \- May. 2019)**
-	* I currently work as an Undergraduate Instructional Assistant at Texas State University. I help manage a computer lab and tutor students for the CIS & QMST department when they come in for help. I assist fellow students with various topics like: Microsoft Office applications, Java/C# programming, and SQL database problems.
+3. **Texas State CIS & QMST Dept. (Sep. 2018 \- May. 2019)**
+	* I currently work as an Undergraduate Instructional Assistant at Texas State University. I help manage a computer lab and tutor students for the CIS & QMST department when they come in for help. I assist fellow students with various topics such as Java/C#/JavaScript programming and Excel/Access projects.
 
 ---
 
