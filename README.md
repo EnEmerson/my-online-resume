@@ -59,10 +59,16 @@ I am currently a student at Texas State University, working on my Bachelor’s of 
 ## Education:
 
 1. **Stony Point High School (2012 \- 2016)**
-	* I graduated Summa Cum Laude from Stony Point in Round Rock, TX with a GPA of 4.0. I received various awards for academic achievement including: Top of Class in Earth and Space Science, ‘A’ Honor Roll, and Perfect Attendance. I ran Cross-Country for 2 years and was on the Varsity Bowling team for all 4 years, with an average of 165 and a high game of 274. **Go Tigers!**
+	* I graduated with a 4.0 from Stony Point in Round Rock, TX. I received multiple awards for academic achievement including: Top of Class in Earth and Space Science, ‘A’ Honor Roll, and Top 10% of class. I ran Cross\-Country for 2 years and played on the Varsity bowling team. 
+
+#### Go Tigers!
+
 
 2. **Texas State University (2016 \- 2019)**
-	* I am currently completing my Bachelors of Business Administration (B.B.A) degree in Computer Information Systems (C.I.S) at Texas State University in the McCoy Business College. I am the Vice President of Information Technology for the Association of Information Technology Professionals (AITP), I play on the Men's Ultimate Disc club team, and I am a member of the Young Conservatives of Texas (YCT). **Eat 'em up Cats!**
+	* I am currently completing my B.B.A. in Computer Information Systems at Texas State University in the McCoy Business College. I am the Vice President of Information Technology for the Association of Information Technology Professionals; I manage the club’s website and give presentations for USITCC competitions such as C# and Java.
+
+#### Eat 'em up Cats!
+
 
 ---
 
