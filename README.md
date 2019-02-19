@@ -33,27 +33,26 @@ I am currently a student at Texas State University, working on my Bachelor’s of 
 
 ## Skills, Qualifications, and Certifications:
 
-* Object Oriented Programming with Java, C#, and Javascript.
+* Object Oriented Programming with Java, C#, and JavaScript.
 
 * Understanding of relational database model using structured query languages (Microsoft SQL 2016).
 
-* Microsoft Office Applications: Word, Excel, Powerpoint
-
-* HTML/XML/CSS Website design and development
+* Website design and development with HTML/XML/CSS
 
 * Proficiency in Systems Analysis and Design with the Agile Development process
 
-* Familiar with languages: Python, Actionscript, R\-Script, Markdown
+* Familiar with languages: Python, ActionScript, R-Script, Markdown
 
-* Familiar with software: GIMP, Unity, 3DS Max, Adobe Photoshop CS6, Adobe Premiere, Adobe After Effects
+* Familiar with software: GIMP, Unity, 3DS Max, Adobe Photoshop CS6, Adobe Premiere, Adobe After Effects, Audacity
 
-* Proficiency with Git version management
+* Proficient with Git version management
 
 * A+ Computer Technician Certified
 
 * Adobe Photoshop CS6 Certified
 
 * 3DS Max 2015 Certified
+
 
 ---
 
