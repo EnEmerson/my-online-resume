@@ -24,7 +24,7 @@ My resume, recording and documenting my work experience throughout the years.
 
 ## Summary:
 
-I am currently a student at Texas State University, working on my Bachelor’s of Business Administration in Computer Information Systems. I started my degree at Texas State in the Fall of 2016 and plan to graduate in the Fall of 2019. In my free time I enjoy playing Ultimate Frisbee, playing bass guitar, and playing video games.
+I am currently a student at Texas State University, working on my Bachelor’s of Business Administration in Computer Information Systems. I started my degree at Texas State in the Fall of 2016 and plan to graduate in the Fall of 2019. In my free time I enjoy playing Ultimate Frisbee, bass guitar, and video games.
 
 #### Current GPA: 3.8
 
