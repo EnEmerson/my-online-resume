@@ -8,7 +8,7 @@ My resume, recording and documenting my work experience throughout the years.
 
 ## Summary:
 
-I am currently a student at Texas State University, working on my Bachelor’s of Business Administration in Computer Information Systems. I started my degree in the Fall of 2016 and plan to graduate in the Fall of 2019. I enjoy front\-end development and am experienced with programming languages: Java, C#, and JavaScript.
+I am currently a student at Texas State University, working on my Bachelor’s of Business Administration in Computer Information Systems. I started my degree in the Fall of 2016 and plan to graduate in the Fall of 2019. I enjoy front\-end development and am experienced with programming languages: Java, C#, HTML/CSS, and JavaScript.
 
 #### Current GPA: 3.5
 
