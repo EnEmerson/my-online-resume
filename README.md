@@ -20,9 +20,9 @@ I started my degree in the Fall of 2016 and plan to graduate in the Fall of 2019
 
 * Email: en.emerson.work@gmail.com
 
-* Github (You are here): [https://github.com/EnEmerson](https://github.com/EnEmerson) 
+* Github (You are here): [github.com/EnEmerson](https://www.github.com/EnEmerson) 
 
-* LinkedIn: [https://www.linkedin.com/in/en-e-4088a184/](https://www.linkedin.com/in/en-e-4088a184/)
+* LinkedIn: [linkedin.com/in/en-emerson](https://www.linkedin.com/in/en-emerson)
 
 ---
 
