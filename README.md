@@ -10,7 +10,7 @@ My resume, documenting my work \& experience throughout the years.
 
 Agile software developer with a passion for any and all disc related sports. Avid electric bass and guitar hobbyist. 
 I am currently a student at Texas State University, working on my B.B.A. in Computer Information Systems. 
-I started my degree in the Fall of 2016 and plan to graduate in the Fall of 2019. I enjoy full stack development and am experienced with programming languages: Java, C#, HTML/CSS, and JavaScript.
+I started my degree in the Fall of 2016 and plan to graduate in the Fall of 2019. I enjoy full-stack development and am experienced with programming languages: Java, C#, HTML/CSS, and JavaScript.
 
 #### Current GPA: 3.86
 
