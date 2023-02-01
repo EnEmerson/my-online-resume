@@ -9,15 +9,19 @@ My resume, documenting my work \& experience throughout the years.
 ## Summary:
 
 Agile software developer with a passion for any and all disc related sports. Avid electric bass and guitar hobbyist. 
-I graduated from Texas State University the Fall of 2019 with a B.B.A. in Computer Information Systems, GPA: 3.5. 
+I graduated from Texas State University the Fall of 2019 with a B.B.A. in Computer Information Systems, GPA: 3.8. 
 I enjoy full-stack development and am experienced with:
 
 - Java
+- Kotlin
 - REACT/Redux
 - Kubernetes/Openshift
 - Spring
 - Docker
+- Podman
 - SQL
+- Puppet
+- Node.js
 
 ---
 
